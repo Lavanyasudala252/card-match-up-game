@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-match-up-game/static/css/main.7ba6f964.css",
+    "main.js": "/card-match-up-game/static/js/main.b066a320.js",
+    "static/js/121.37006914.chunk.js": "/card-match-up-game/static/js/121.37006914.chunk.js",
+    "index.html": "/card-match-up-game/index.html",
+    "main.7ba6f964.css.map": "/card-match-up-game/static/css/main.7ba6f964.css.map",
+    "main.b066a320.js.map": "/card-match-up-game/static/js/main.b066a320.js.map",
+    "121.37006914.chunk.js.map": "/card-match-up-game/static/js/121.37006914.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba6f964.css",
+    "static/js/main.b066a320.js"
+  ]
+}
